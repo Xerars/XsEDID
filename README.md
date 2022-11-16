@@ -1,0 +1,2 @@
+# XsEDID
+Simply EDID Parser
